@@ -81,11 +81,11 @@ hr {
 
 /* START HOME */
 .templatemo-home {
-  background: url('../images/home-bg.jpg');
+  background: url('../images/n8agw6z2smyb1.gif');
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
-  color: #5f5f5f;
+  color: #ffffff;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -103,7 +103,7 @@ hr {
  }
 .tm-home-title { font-size: 60px; }
 .tm-home-subtitle {
-  color: #eb5424;
+  color: #000000;
   font-weight: bold;
   padding-bottom: 40px;
   letter-spacing: 2px;
@@ -120,7 +120,7 @@ hr {
   -webkit-transition: all 0.6s ease-in;
           transition: all 0.6s ease-in;
 }
-.tm-view-more-btn:hover {
+.tm-view-more-  :hover {
   background: #ffffff;
   color: #eb5424;
 }
