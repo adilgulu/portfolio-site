@@ -87,7 +87,7 @@ hr {
   background-position: center center;
   color: #ffffff;
   display: -webkit-box;
-  display: -webkit-flex;
+  display: -webkit-flex; 
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
